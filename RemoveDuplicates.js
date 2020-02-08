@@ -1,4 +1,4 @@
-const HashMap = require('./Hash');
+const HashMap = require('./HashMap');
 
 function removeDuplicates(string) {
   const hashMap = new HashMap()

@@ -1,4 +1,4 @@
-const HashMap = require('./Hash');
+const HashMap = require('./HashMap');
 
 function checkHashMapsEqual(a, b) {
   if (a.length !== b.length)
